@@ -1,0 +1,4 @@
+그 차를 사고 싶어요? = Do you want to buy that car?
+비싼 차를 사고 싶어요? = Do you want to buy an expensive car?
+무슨 차를 사고 싶어요? = What car do you want to buy?
+어떤 차를 사고 싶어요? = Which car do you want to buy?

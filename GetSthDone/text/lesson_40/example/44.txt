@@ -1,0 +1,2 @@
+건물을 지나가서 오른 쪽으로 가세요 = Go past the building, then go right
+건물을 지나가서 오른 쪽으로 가지 말고 계속 직진하세요 = Go past the building, then don’t turn right, but keep going straight

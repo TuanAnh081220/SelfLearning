@@ -1,0 +1,2 @@
+Examples:
+이 독을 마시면 치료할 수 없어요 = If you drink this poison, you cannot cure/treat it

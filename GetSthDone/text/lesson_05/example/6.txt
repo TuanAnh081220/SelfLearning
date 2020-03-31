@@ -1,0 +1,3 @@
+나는 창문을 열다 = I open the window (note that this sentence is unconjugated)
+The last vowel in the stem is ㅕ. This is not ㅏ or ㅗ. So we add 었다 to the stem:
+나는 창문을 열었다 = I opened the window (열 + 었다)

@@ -1,0 +1,5 @@
+제가 만나고 있는 사람은 예뻐요 = The person I am meeting is pretty
+제가 보고 있는 영화는 재미있어요 = The movie I am watching is funny
+제가 먹고 있는 음식은 맛있어요 = The food I am eating is delicious
+저는 제가 자주 가는 곳에 가고 있어요 = I am going to the place I often go to
+친구는 제가 자주 가는 곳에 가고 있어요 = My friend is going to the place I often go

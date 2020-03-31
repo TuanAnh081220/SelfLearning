@@ -1,0 +1,3 @@
+Examples:
+미국은 민주적인 나라예요 = The US is a democratic nation
+미국은 대통령을 민주적으로 선출해요 = America elects its president democratically

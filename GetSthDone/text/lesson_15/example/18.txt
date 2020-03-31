@@ -1,0 +1,2 @@
+저는 김치를 먹었어요 = I ate kimchi
+An object predicated by a verb

@@ -1,0 +1,3 @@
+얼굴을 보여주세요 = Please show (me) your face
+발가락을 보여 주세요 = Please show me your toe
+해외무역건물이 어디 있는지 보여주세요 = Please show me where the international trade building is

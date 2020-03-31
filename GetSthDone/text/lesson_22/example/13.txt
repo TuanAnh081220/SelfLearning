@@ -1,0 +1,2 @@
+밥을 먹었어 = I ate rice
+뭐 먹었어요? = What did you eat?

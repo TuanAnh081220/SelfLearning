@@ -1,0 +1,4 @@
+방학 동안 집에 안 갔습니까? = You didn’t go home during vacation?
+그 사람을 만나고 싶습니까? = Do you want to meet that person?
+내일 학교에 갈 겁니까? = Are you going to school tomorrow?
+내일 학교에 갈 것입니까? = Are you going to school tomorrow?

@@ -1,0 +1,4 @@
+Examples:
+이 직장에서 수염을 길러도 돼요 = You are allowed to have a beard at this job
+수염을 안 깎아도 돼요? = You don’t need to shave your beard?
+수염이 길면 음식을 먹을 때마다 수염에 음식이 묻어서 깨끗하지 않아요 = When your facial hair is long, every time you eat food, it gets stuck in your beard so it’s not clean

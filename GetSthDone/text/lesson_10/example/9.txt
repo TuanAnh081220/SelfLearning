@@ -1,0 +1,4 @@
+사람 두 명 = 2 people
+사람 한 명 = 1 person
+펜 다섯 개 = 5 pens
+펜 마흔네 개 = 44 pens

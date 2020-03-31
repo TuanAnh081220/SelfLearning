@@ -1,0 +1,3 @@
+몇 시예요? = What time is it?
+몇 살이에요? = How old are you?
+너의 남동생은 몇 살이야? = How old is your younger brother?

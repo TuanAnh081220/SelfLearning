@@ -1,0 +1,3 @@
+Examples:
+어떤 남자는 어제 여기에 왔어 = Some man came here yesterday
+그 학생은 어떤 여자와 지금 사귀고 있어요 = That student is going out with some girl now

@@ -1,0 +1,3 @@
+Examples:
+자격증을 안 보여줘도 돼요? = I don’t need to show you my certification?
+한국에 젊은이들은 취업을 하기 위해 많은 자격증을 따요 = Young people in Korea obtain a lot of certificates to get hired

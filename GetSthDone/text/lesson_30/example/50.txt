@@ -1,0 +1,3 @@
+밥을 먹은 지 5분 됐다
+= I haven’t eaten for five minutes
+= It has been five minutes since I last ate

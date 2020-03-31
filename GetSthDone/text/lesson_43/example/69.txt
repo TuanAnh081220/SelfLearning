@@ -1,0 +1,2 @@
+Person 1: 나는 오늘 집에 안 갈 거야 = I’m not going home today
+Person 2: 그러면/그렇다면 나도 안 갈 거야 = If so, I’m not going either

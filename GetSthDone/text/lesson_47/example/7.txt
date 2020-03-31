@@ -1,0 +1,2 @@
+Examples:
+물을 마셔야 되지만 물이 아직도 다 얼어 있어요 = I need to drink water, but it is still all frozen

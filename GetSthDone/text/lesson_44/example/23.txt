@@ -1,0 +1,4 @@
+나는 그거를 먹을래 = I’m going to eat that/I want to eat that
+나는 안 할래 = I’m not going to do it/I don’t want to do it
+나는 안 먹을래 = I’m not going to eat/I don’t want to eat that
+나는 먼저 할래 = I’m going to do it first/I want to do it first

@@ -1,0 +1,4 @@
+Examples:
+아저씨가 프린터를 복구하는 중이에요 = The man is restoring the printer
+모든 프린터 중에 이것이 제일 싸요 = Among all the printers, this one is the cheapest
+이 서류를 그 프린터로 인쇄해 주세요 = Please print this document with that printer

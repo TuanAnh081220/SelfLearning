@@ -1,0 +1,3 @@
+비싼 음식은 맛있다 = Expensive food is delicious
+(비싼 음식은 맛있어 / 비싼 음식은 맛있어요)
+The adjective “to be delicious” predicates this sentence. Notice that there is no object in this sentence.

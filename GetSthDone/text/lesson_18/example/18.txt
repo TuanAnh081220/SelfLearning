@@ -1,0 +1,2 @@
+그 돼지는 살아 있어요 = That pig is living (alive)
+그 소는 살아 있지 않아요 = That cow isn’t living (alive)

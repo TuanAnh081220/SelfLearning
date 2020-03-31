@@ -1,0 +1,3 @@
+Examples:
+지금 환경을 보존하지 않으면 미래에 더 큰 문제가 생길 것 같아요
+= If we don’t preserve the environment, there will probably be bigger problems in the future

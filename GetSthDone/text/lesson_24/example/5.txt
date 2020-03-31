@@ -1,0 +1,2 @@
+Also used to indicate that something happens after an action:
+밥을 먹은 후에 친구를 만났어요 = After I ate, I met a friend

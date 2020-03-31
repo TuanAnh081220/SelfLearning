@@ -1,0 +1,4 @@
+그 영화를 보고 싶어요? = Do you want to see that movie?
+무서운 영화를 보고 싶어요? = Do you want to see a scary movie?
+무슨 영화를 보고 싶어요? = What movie do you want to see?
+어떤 영화를 보고 싶어요? = Which movie do you want to see?

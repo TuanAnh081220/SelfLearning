@@ -1,0 +1,5 @@
+건너다 = to cross
+The last vowel in the stem is ㅓ. So we add 었다 to the stem.
+나는 길을 건너었다
+But, because the stem ends in a vowel, 었다 can merge with 너:
+나는 길을 건넜다 = I crossed the street

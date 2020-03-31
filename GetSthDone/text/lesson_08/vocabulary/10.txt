@@ -1,0 +1,5 @@
+
+Examples:
+저는 도서관에 어제 갔어요 = I went to the library yesterday
+도서관이 조용해서 거기서 공부하고 싶어요 = I want to study at the library because it is quiet
+내일 도서관에 갈까? = Shall we go to the library tomorrow?

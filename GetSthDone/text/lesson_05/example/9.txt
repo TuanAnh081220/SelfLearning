@@ -1,0 +1,5 @@
+오다 = to come
+The last vowel in the stem is ㅗ. So we add 았다 to the stem.
+삼촌은 가게에 오았다
+But, because the stem ends in a vowel, 았다 can merge with 오:
+삼촌은 가게에 왔다 = (My) uncle came to the store

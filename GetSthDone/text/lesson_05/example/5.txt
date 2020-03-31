@@ -1,0 +1,3 @@
+나는 문을 닫다 = I close the door (note that this sentence is unconjugated)
+The last vowel in the stem is ㅏ. So we add 았다 to the stem:
+나는 문을 닫았다 = I closed the door (닫 + 았다)

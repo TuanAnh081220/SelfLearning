@@ -1,0 +1,3 @@
+이것을 보셔요 = Look at this
+빨리 올라오셔요 = Come up quick
+이 길에서 직진하셔요 = Go straight on this road

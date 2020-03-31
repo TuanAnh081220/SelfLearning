@@ -1,0 +1,2 @@
+직전 = just before
+직후 = right after

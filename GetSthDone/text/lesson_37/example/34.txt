@@ -1,0 +1,2 @@
+저는 배고파서 밥을 먹었어요 = I was hungry, so I ate
+Notice that this sentence wouldn’t make sense if it were “I am hungry, so I ate.”

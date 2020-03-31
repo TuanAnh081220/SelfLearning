@@ -1,0 +1,6 @@
+
+Common Usages:
+노래 제목 = the name of a song
+책 제목 = the name of a book
+Example:
+그 책의 제목은 뭐에요? = What is the title of that book?

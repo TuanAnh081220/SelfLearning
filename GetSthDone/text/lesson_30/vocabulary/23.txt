@@ -1,0 +1,7 @@
+
+Notes: A number is usually placed before 호선 to indicate a specific line of the subway. For example:
+1호선 = line 1
+2호선 = line 2
+Examples:
+2호선은 서울 도심 주위를 돌아요 = Line 2 circles around the downtown of Seoul
+거기에 가려면 동대문역에서 4호선으로 갈아타면 돼요 = If you want to go there, you should transfer to line 4 at Dongdaemun station

@@ -1,0 +1,3 @@
+
+Example:
+날씨는 아주 더워요 = The weather is very hot

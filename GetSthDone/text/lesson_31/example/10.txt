@@ -1,0 +1,2 @@
+가격이 얼마예요? = How much is this?
+가격이 얼마인지 모르겠어요 = I don’t know how much the price is

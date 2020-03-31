@@ -1,0 +1,2 @@
+Person 1: 비가 왔어요? = Did it rain?
+Person 2: 응, 그래서 나가기 싫어요 = Yeah, that’s why/therefore I don’t want to go out

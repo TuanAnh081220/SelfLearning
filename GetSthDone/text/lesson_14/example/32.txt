@@ -1,0 +1,2 @@
+문이 닫혀 있을 거예요 = The door will be closed
+This is a passive sentence that is indicating that the door will be in the state of “closed” in the future. It does not indicate who/what will close the door; all we know is that, at that time in the future, the door will be closed.

@@ -1,0 +1,7 @@
+
+Common Usages:
+전화번호 = phone number
+등록번호 = registration number
+등번호 = the number on a player’s back (in sports)
+Example:
+각 자리에 번호가 쓰여 있어요 = There is a number written on each seat

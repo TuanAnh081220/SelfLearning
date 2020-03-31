@@ -1,0 +1,4 @@
+
+Examples:
+캐나다 선생님들은 항상 두 개의 교과목을 가르쳐요 = Canadian teachers always teach two subjects
+학생들은 교과목 두 개 중에 하나를 선택해야 해요 = Students must choose one out of the two subjects

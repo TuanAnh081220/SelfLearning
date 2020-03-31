@@ -1,0 +1,3 @@
+Example:
+바다 근처에 바람이 세게 불어요 = The wind is strong near the ocean
+문이 바람에 닫혔어요 = The door was closed by the wind

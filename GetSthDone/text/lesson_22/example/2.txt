@@ -1,0 +1,4 @@
+Examples:
+한국어를 얼마나 자주 공부해요? = How often do you study Korean?
+얼마나 많은 돈을 가져갈 거야? = How much money will you take?
+이것은 얼마예요? = How much is this?

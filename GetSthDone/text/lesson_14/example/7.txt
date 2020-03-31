@@ -1,0 +1,2 @@
+이 값은 세금을 포함해요 = This price includes tax
+세금은 포함돼요 = The tax is included

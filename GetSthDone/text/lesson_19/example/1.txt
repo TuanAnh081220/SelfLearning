@@ -1,0 +1,5 @@
+Example:
+한식은 너무 맛있어요 = Korean food is very delicious
+저는 2주 동안 한식을 안 먹었어요 = I didn’t eat Korean food for two weeks
+한식은 양식보다 더 매워 = Korean food is spicier than western food
+한국에서 사는 것에 있어서 내가 가장 좋아하는 것은 한식을 매일 먹는 것이야 = My favorite part about living in Korea is eating Korean food every day

@@ -1,0 +1,3 @@
+뭐 먹었어요? = Did you eat something?
+어디 갔어요? = Did you go somewhere?
+누구 만났어요? = Did you meet somebody?

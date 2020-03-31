@@ -1,0 +1,5 @@
+공부하다 = to study
+The last vowel in the stem is 하. So, we add 였다 to the stem.
+나는 한국어를 공부하였다
+But, 하 and 여 can be merged to formed 해:
+나는 한국어를 공부했다 = I studied Korean

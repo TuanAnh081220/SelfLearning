@@ -1,0 +1,2 @@
+Person 1: 지금 가야 되지 않아요? = Don’t you have to go now?
+Person 2: 네, 그렇지만 할 게 많아서 지금 못 가요 = Yes, however I can’t go now because I have a lot of things to do

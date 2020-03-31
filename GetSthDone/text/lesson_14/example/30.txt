@@ -1,0 +1,2 @@
+문이 닫혀 있어요 = The door is closed
+Notice the difference between this example and the one above. This sentence is not referring to the door closing. It is only stating that the door is currently in the state of “closed”

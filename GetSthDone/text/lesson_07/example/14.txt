@@ -1,0 +1,3 @@
+길다 = long
+길 + ㄴ = 긴
+저는 긴 거리를 건넜어요 = I crossed the long street

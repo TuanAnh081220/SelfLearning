@@ -1,0 +1,5 @@
+어디 can be used to ask “where” something happened if the place is unknown. For example:
+어디 가고 싶어요? = Where do you want to go?
+어디 살아요? = Where do you live?
+그것을 어디서 하고 싶어요? = Where do you want to do that?
+어디에서 왔어요? = Where are you from (from where did you come?)

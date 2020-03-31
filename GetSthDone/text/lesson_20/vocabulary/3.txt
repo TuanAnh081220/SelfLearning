@@ -1,0 +1,8 @@
+
+Common Usages:
+최고기온 = the highest temperature
+최저기온 = the lowest temperature
+Notes: This is used for the temperature of the weather.
+Example:
+내일 최고기온은 10도예요 = Tomorrow the high temperature is 10 degrees
+지구 기온이 점점 오르면서 한국에서 사계절이 사라진대요 = As the global temperatures gradually increase, they say that the “four seasons” in Korea is disappearing

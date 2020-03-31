@@ -1,0 +1,4 @@
+시험을 잘 봤니? = Did you write the exam well (did you do well on the exam)?
+서울에 가겠니? = Are you going to go to Seoul?
+몇 반이니? = What class are you in?
+이미 졸업했니? = Did you already graduate?

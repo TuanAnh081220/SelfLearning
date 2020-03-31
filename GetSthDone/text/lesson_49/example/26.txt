@@ -1,0 +1,4 @@
+밥이 아직은 안 됐어요 = The rice still isn’t ready
+여기서 Wi-Fi가 (잘) 안 돼요 = The Wi-Fi doesn’t work (well) here
+컴퓨터가 안 돼요 = The computer isn’t working
+로그인이 안 돼요 = The log-in isn’t working (I can’t log in)

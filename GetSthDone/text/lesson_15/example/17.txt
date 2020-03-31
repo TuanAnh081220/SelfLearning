@@ -1,0 +1,2 @@
+맥주가 좋아요 = I like beer
+맥주가 싫어요 = I don’t like beer

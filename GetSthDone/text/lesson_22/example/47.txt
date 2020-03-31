@@ -1,0 +1,2 @@
+Person 1: 저는 많이 먹었어요 = I ate a lot
+Person 2: 뭐(를)? = what? (you ate a lot of what?)

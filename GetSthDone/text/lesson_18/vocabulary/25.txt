@@ -1,0 +1,3 @@
+
+Example:
+그 가수는 한국에서 매우 유명해요 = That singer is very famous in Korea

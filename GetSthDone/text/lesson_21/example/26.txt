@@ -1,0 +1,2 @@
+집에 갔어? = Did you go home?
+집에 언제 갔어? = When did you go home?

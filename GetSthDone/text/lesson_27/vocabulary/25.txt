@@ -1,0 +1,4 @@
+
+Examples: 식당은 손님으로 가득 찼어요 = The restaurant is filled with customers
+그 주인은 손님들을 잘 대우해요 = That owner treats the customers well
+손님을 맞이하러 공항에 가는 데 2 시간이 걸렸어요 = It took two hours to go to the airport to meet the guest

@@ -1,0 +1,2 @@
+날씨가 추워져 = The weather gets cold
+날씨가 매일 밤에 추워져요 = The weather gets cold every night

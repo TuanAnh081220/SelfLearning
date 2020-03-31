@@ -1,0 +1,4 @@
+Examples:
+이 빛이 충분히 밝은지 모르겠어요 = I don’t know if this light is bright enough
+빛의 색깔은 주파수에 달려 있어요 = The color of light is different depending on the wavelength
+햇빛이 너무 세서 로션을 바르세요 = Put some lotion on because the sunlight is really strong

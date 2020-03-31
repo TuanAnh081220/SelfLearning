@@ -1,0 +1,4 @@
+Examples:
+규칙을 위반하지 마세요 = Please don’t break the rules
+제가 아주 중요한 규칙을 설명하는 중이에요 = I am explaining a very important rule
+그 규칙에 동의하든지 안 하든지 그 규칙을 따라야 돼요 = It doesn’t matter if you agree with the rule or not, you have to follow it 

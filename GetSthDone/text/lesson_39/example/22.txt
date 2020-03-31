@@ -1,0 +1,3 @@
+Examples:
+선생님이 대답을 빨리 하셨어요 = The teacher responded quickly
+교장선생님이 아직 대답하시지 않았어요 = The principal hasn’t responded yet

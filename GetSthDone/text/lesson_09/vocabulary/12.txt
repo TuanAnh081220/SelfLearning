@@ -1,0 +1,7 @@
+
+The counter for animals is “마리”
+Common Usages:
+소고기 = beef
+소갈비 = beef ribs
+Example:
+농부들은 소를 키워요 = Farmers raise cows

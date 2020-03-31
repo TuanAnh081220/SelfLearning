@@ -1,0 +1,3 @@
+저는 어제 못 공부했어요 = I didn’t study well yesterday/I couldn’t study yesterday
+저는 어제 공부하지 못했어요 = I didn’t study well yesterday/I couldn’t study yesterday
+저는 공부를 못해요 = I am bad at studying

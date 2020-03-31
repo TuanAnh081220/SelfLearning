@@ -1,0 +1,5 @@
+저는 엄마가 왜 먹었는지 모르겠어요 = I don’t know why mom ate
+저는 엄마가 뭐 먹었는지 모르겠어요 = I don’t know what mom ate
+저는 엄마가 언제 먹었는지 모르겠어요 = I don’t know when mom ate
+저는 엄마가 어디서 먹었는지 모르겠어요 = I don’t know where mom ate
+저는 엄마가 밥을 먹었는지 모르겠어요 = I don’t know if mom ate

@@ -1,0 +1,6 @@
+
+Common Usages:
+18세 미만 = under 18 years of age
+18세 이상 = over 18 years of age
+Example:
+그 가게에 18세 미만은 못 들어가요 = Those under 18 years of age can’t enter that store

@@ -1,0 +1,4 @@
+
+Examples:
+가방을 처음 봤을 때 가짜인 것을 알았어요 = When I first saw the bag, I knew that it was fake
+제가 어제 산 신발이 가짜인 것을 알게 되었어요 = I found out that the shoes I bought yesterday are fake

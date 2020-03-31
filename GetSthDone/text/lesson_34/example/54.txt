@@ -1,0 +1,2 @@
+Person 1: 일을 다 했어요? = Have you done all the work yet?
+Person 2: 아직 안 했어요 = I haven’t done it yet/I still haven’t done it

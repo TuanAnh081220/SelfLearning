@@ -1,0 +1,3 @@
+Instead of:
+우리는 빨리 가야 해요 = We have to go fast!
+우리는 빨리 가야 돼요 = We have to go fast!

@@ -1,0 +1,4 @@
+Examples:
+나를 좋아하는 학생들은 적어 = There are few students who like me
+이 수업을 등록하고 싶은 사람이 적어요 = There aren’t many people who want to register for this class
+한국은 다른 나라보다 이민자가 적어요 = Korea doesn’t have that many immigrants compared to other countries

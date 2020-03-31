@@ -1,0 +1,2 @@
+어떤 영화를 보고 싶어요? = Which movie do you want to see?
+(In theory, the speaker would have given the listener a choice to choose from, or would be asking about the type of movie the listener wants to see [for example, a comedy, a horror movie, or a love story]).

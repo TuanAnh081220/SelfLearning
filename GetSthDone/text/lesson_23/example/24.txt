@@ -1,0 +1,2 @@
+Person 1: 내일 공원에 같이 가고 싶어요? = Do you want to go to the park together tomorrow?
+Person 2: 그래요. 같이 가요 = Sure (like that is fine). Let’s go together.

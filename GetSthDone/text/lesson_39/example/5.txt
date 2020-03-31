@@ -1,0 +1,3 @@
+Examples:
+종이 아직 안 쳤어요 = The bell hasn’t rang yet
+종이 칠 때까지 선생님이 수업을 하실 거예요 = The teacher will do the class until the bell rings

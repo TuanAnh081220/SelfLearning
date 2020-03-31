@@ -1,0 +1,3 @@
+나는 행복하겠다 = I will be happy
+그것은 맛있겠다 = That thing will be delicious
+나는 배고프겠다 = I will be hungry

@@ -1,0 +1,2 @@
+펜이 있는 사람!? = Does anybody have a pen? (Is there anybody who has a pen)?
+펜이 없는 사람!? = Does anybody not have a pen? (Does everybody have a pen)?

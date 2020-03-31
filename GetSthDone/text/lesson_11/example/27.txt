@@ -1,0 +1,5 @@
+저는 하루 동안 여행했어요 = I traveled for 1 day
+저는 사흘 동안 밥을 안 먹었어요 = I didn’t eat rice for 3 days
+저는 삼일 동안 밥을 안 먹었어요 = I didn’t eat rice for 3 days
+우리는 이틀 동안 미국에 있었어요 = We were in America for two days
+우리는 10일 동안 한국에 있을 거예요 = We will be in Korea for ten days

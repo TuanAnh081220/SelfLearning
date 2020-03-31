@@ -1,0 +1,4 @@
+
+Example:
+후보자들은 내일까지 와야 돼요 = Candidates have until tomorrow to come
+그들은 많은 후보자들 중에서 저를 뽑았어요 = They chose me from many candidates

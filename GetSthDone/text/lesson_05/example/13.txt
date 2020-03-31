@@ -1,0 +1,5 @@
+만나다 = to meet
+The last vowel in the stem is ㅏ. So we add 았다 to the stem.
+나는 친구를 만나았다
+But, because the stem ends in a vowel, 았다 can merge with 나:
+나는 친구를 만났다 = I met friends

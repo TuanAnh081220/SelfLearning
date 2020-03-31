@@ -1,0 +1,11 @@
+
+Notes: The word “목소리” typically refers to one’s actual voice, as in the sound that comes out of one’s mouth. “음성” is typically placed before a noun to indicate that the noun is related to “voices.” For example, a voice recognition system in Korea would be called “음성인식시스템” but probably not a “목소리인식시스템”
+Common Usages:
+음성메시지 = voice message
+음성녹음 = voice recording
+Examples:
+음성 메시지를 남겨 주세요 = Please leave me a voice message
+요즘에 거의 모든 핸드폰에 음성 녹음 기능이 있어요
+= These days almost all cell phones have a voice recording function
+핸드폰에 전화를 해서 상대방이 전화를 받지 않으면 음성 메시지로 넘어가요
+= If you call somebody and they don’t answer, it goes to voice message

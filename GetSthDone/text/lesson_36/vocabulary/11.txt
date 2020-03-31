@@ -1,0 +1,6 @@
+
+Examples:
+한국의 교통비는 매년 오르고 있어요
+= Transportation fees (the fare for buses and subways) are going up every year in Korea
+매월 직장에 출퇴근하는 데 교통비가 10만원이 들어요
+= Every month the transportation cost to commute to work is 100,000 won

@@ -1,0 +1,4 @@
+
+Example:
+한국 사람들은 양식을 보통 안 먹어요 = Korean people usually don’t eat Western food
+한식은 양식보다 더 매워 = Korean food is spicier than western food

@@ -1,0 +1,3 @@
+
+Examples: 종업원을 찾아야 돼요 = I need to find the worker/server/employee
+저는 종업원한테 양말이 어디에 있냐고 물어봤어요 = I asked the worker where the socks are

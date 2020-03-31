@@ -1,0 +1,6 @@
+차가 몇 대 있어요? = How many cars do you have?
+친구를 몇 명 만났어요? = How many friends did you meet?
+어제 학교에 몇 번 갔어요? = How many times did you go to school yesterday?
+파일을 몇 개 보냈어요? = How many files did you send?
+치마를 몇 개 샀어요? = How many skirts did you buy?
+그 종이를 몇 번 찢었어요? = How many times did you rip that paper?

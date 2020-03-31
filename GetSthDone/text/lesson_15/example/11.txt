@@ -1,0 +1,2 @@
+저는 또 다른 영화를 봤어요 = I saw ANother movie
+In this, maybe the person saw one movie, and then again saw a different movie.

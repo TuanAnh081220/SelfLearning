@@ -1,0 +1,8 @@
+저녁 때 = During dinner/evening time
+방학 때 = During the school vacation
+회의 때 = During the meeting
+휴가 때 = During a vacation
+고등학교 때 = During high school
+중학교 때 = During middle school
+초등학교 때 = During elementary school
+대학교 때 = During University

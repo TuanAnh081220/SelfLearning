@@ -1,0 +1,2 @@
+사과는 크다 = Apples are big
+나는 큰 사과를 좋아한다 = I like big apples

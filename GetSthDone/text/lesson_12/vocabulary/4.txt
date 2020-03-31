@@ -1,0 +1,5 @@
+
+Example:
+저는 선생님의 목소리를 못 들었어요 = I couldn’t hear the teacher’s voice
+목소리가 잘 들려요 = I hear you (your voice) well
+The Korean sentence above is predicated by an intransitive verb (들리다), which means it cannot act on an object. The English translation is predicated by a transitive verb (to hear), which means it can act on an object. A more direct translation of the Korean sentence would be “Your voice can be heard well/clearly.” However, this phrase is often used to indicate that one cannot hear another person’s voice.

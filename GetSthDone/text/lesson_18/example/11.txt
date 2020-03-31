@@ -1,0 +1,2 @@
+Person 1: 우리는 내일 6시에 출발 할 거야 = We will leave at 6:00 tomorrow
+Person 2: 알았어 = Okay

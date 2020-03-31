@@ -1,0 +1,2 @@
+기한이 이미 지나서 선거를 실시할 수 없어요
+= You can’t hold an election because the time limit has already passed

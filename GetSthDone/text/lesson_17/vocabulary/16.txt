@@ -1,0 +1,6 @@
+
+Example:
+저는 한국 단어 천 개를 알고 있어요 = I know 1000 Korean words
+저는 여러 가지의 단어를 배우고 싶어요 = I want to learn lots of different types of words
+문법은 어렵고 단어는 쉬워요 = Grammar is hard, but words are easy
+그 단어를 어떻게 발음하는 지 알아요? = Do you know how to pronounce that word?

@@ -1,0 +1,4 @@
+나는 일단 밥부터 먹고 나갈 거야 = I will eat first, and then go outside
+나는 일단 밥부터 먹고 나갈 거야 = I will start by (from) eating, and then go outside
+나는 일단 밥부터 먹고 나갈 거야 = After I eat, I will go outside
+나는 일단 밥부터 먹고 나갈 거야 = Once I am finished eating, I will go outside

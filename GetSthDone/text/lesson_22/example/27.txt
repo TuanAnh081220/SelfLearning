@@ -1,0 +1,2 @@
+무슨 영화를 보고 싶어요? = What movie do you want to see?
+(In theory, the speaker would have no idea what the answer to the question would be)

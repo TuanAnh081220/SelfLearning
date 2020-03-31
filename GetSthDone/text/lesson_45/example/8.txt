@@ -1,0 +1,3 @@
+Examples:
+선거에서 투표를 해야 돼요 = I/you need to vote in the election
+이번 선거로 인권 문제를 해결할 수 있어요 = We can solve the problem of human rights through this election

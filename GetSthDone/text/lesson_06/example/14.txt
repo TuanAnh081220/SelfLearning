@@ -1,0 +1,2 @@
+나는 먹겠어 = I will eat (먹 + 겠어)
+나는 배우겠어 = I will learn (배우 + 겠어)

@@ -1,0 +1,3 @@
+
+Example:
+요리사들은 저녁을 부엌에서 준비했어요 = The chefs prepared the dinner in the kitchen

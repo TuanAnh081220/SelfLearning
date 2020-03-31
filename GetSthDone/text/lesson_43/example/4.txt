@@ -1,0 +1,3 @@
+Examples:
+신호를 보면 저에게 말을 바로 해 주세요
+= When/if you see the signal, let me know immediately please

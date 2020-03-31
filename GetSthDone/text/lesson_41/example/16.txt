@@ -1,0 +1,3 @@
+Examples:
+책을 읽은 후에 제자리에 둬야 해요  = After reading the book, you have to put it back in the right place
+저의 영어 실력은 아무리 열심히 해도 제자리걸음이라 너무 실망스러워요

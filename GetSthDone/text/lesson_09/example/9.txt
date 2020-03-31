@@ -1,0 +1,3 @@
+나는 바쁜 선생님이었어 = I was a busy teacher
+나는 학생이었어 = I was a student
+나는 선생님이었어 = I was a teacher

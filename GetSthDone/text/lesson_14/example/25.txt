@@ -1,0 +1,2 @@
+문이 닫혔어요 = The door was closed
+This is a passive sentence. It is indicating that at some point in the past, the door was closed by something or someone. This is the exact passive equivalent of “저는 문을 닫았어요” – the only difference is that we have no idea who/what closed the door. Though you could assume that the door (after that point) was in the state of “closed” this sentence does not specifically indicate that.

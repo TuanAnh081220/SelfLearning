@@ -1,0 +1,3 @@
+이 차는 크다 = This car is big
+(이 차는 커 / 이 차는 커요)
+The adjective “to be big” predicates this sentence. Notice that there is no object in this sentence.

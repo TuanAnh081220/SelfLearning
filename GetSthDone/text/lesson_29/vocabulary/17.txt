@@ -1,0 +1,7 @@
+
+Common Usages:
+신제품 = new product
+공장에서 만들어진 제품 = products made in a factory
+Examples: 제품이 언제 와요? = When will the products come?
+우리가 그 제품을 내일 받을 거예요 = We will receive those products tomorrow
+제품을 트럭에 다 실었어요? = Did you load all of the products onto the truck?

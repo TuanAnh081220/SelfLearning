@@ -1,0 +1,2 @@
+Person 1: 주차를 이 선 안에 해야 되지 않아요? = Don’t you have to park between these lines?
+Person 2: 그렇지만 차가 너무 커서 그렇게 할 수 없어요 = However, the car is too big so I can’t do it like that.

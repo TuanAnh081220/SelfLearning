@@ -1,0 +1,3 @@
+Examples:
+내일 날씨가 쌀쌀할지 모르겠어요 = I don’t know if tomorrow’s weather will be chilly
+오늘 날씨가 쌀쌀하니까 따뜻한 신발을 신었어요 = The weather is chilly today, so I put on warm shoes

@@ -1,0 +1,2 @@
+피자를 먹으면 저는 콜라를 마셔요 = Whenever I eat pizza, I drink cola
+피자를 먹으면 저는 콜라를 마셔요 = Every time I eat pizza, I drink cola

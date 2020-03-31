@@ -1,0 +1,4 @@
+나는 내일 친구를 만날 것이야 = I will meet my friend tomorrow
+나는 내일 친구를 만날 거야 = I will meet my friend tomorrow
+저는 내일 학교에 갈 것입니다 = I will go to school tomorrow
+저는 영어를 공부할 거예요 = I will study English

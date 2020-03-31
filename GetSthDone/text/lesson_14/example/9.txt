@@ -1,0 +1,2 @@
+회사는 기계를 대체했어 = The company replaced the machine
+기계는 대체되었어 = The machine was replaced

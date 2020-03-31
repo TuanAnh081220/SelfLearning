@@ -1,0 +1,3 @@
+저는 여행을 안 했어요 = I didn’t travel
+Instead of:
+저는 안 여행했어요

@@ -1,0 +1,2 @@
+Person 1: 축구 경기를 내일 보러 갈래요? = Shall we go to see a soccer game tomorrow?
+Person 2: 저는 가고 싶지만 내일은 안 돼요 = I want to go, but I can’t go tomorrow (tomorrow doesn’t work for me)

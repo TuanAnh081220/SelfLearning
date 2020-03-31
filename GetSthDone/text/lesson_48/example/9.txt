@@ -1,0 +1,3 @@
+Examples:
+보석을 그 동굴에 숨겨도 사람들이 찾을 거예요
+= Regardless of whether you hide the jewels in that cave, people will find them

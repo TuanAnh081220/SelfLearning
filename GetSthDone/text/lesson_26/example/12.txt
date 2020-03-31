@@ -1,0 +1,3 @@
+Examples:
+시험을 끝내기 전에 답을 확인하세요 = Check your answers before finishing the test
+선생님은 학생들이 물어본 질문에 답했어요 = The teacher answered the question that the student asked

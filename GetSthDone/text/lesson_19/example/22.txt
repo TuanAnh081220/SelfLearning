@@ -1,0 +1,2 @@
+오늘은 더 더워 = Today is hotter
+오늘은 어제보다 더 더워 = Today is hotter than yesterday

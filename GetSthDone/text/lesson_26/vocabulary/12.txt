@@ -1,0 +1,11 @@
+
+Common Usages:
+경기장 = sports stadium
+경기력 = sports performance
+Examples:
+우리는 3대 2로 경기를 이겼어요 = We won the game 3 to 2
+우리는 다른 팀을 농구경기에서 이겼어요 = We beat the other team in the basketball game
+축구경기를 보면서 맥주를 마셨어요 = I watched the match while drinking beer
+축구 경기를 내일 보러 갈래요? = Shall we go to see a soccer game tomorrow?
+야구 경기에서 두산은 LG를 이기게 되었어요 = Doosan ended up beating LG in the baseball game
+제가 생각한 대로 태권도 올림픽 경기에서 대한민국 선수는 일본 선수를 이겼어요 = As I thought, the Korean athlete beat the Japanese athlete in the Taekwondo match

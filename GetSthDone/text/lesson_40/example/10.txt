@@ -1,0 +1,2 @@
+Examples:
+칠판을 올려다보세요 = Look up to the board

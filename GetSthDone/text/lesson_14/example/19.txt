@@ -1,0 +1,3 @@
+밥은 학교에 의해 제공된다 = food is provided by the school
+밥은 학교에 의해 제공되었다 = food was provided by the school
+문은 바람에 의해 닫혔어요 = The door was closed by the wind

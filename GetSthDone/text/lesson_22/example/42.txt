@@ -1,0 +1,3 @@
+얼마나 많은 빵을 먹었어요? = How much bread did you eat?
+얼마나 많은 돈을 가져갈 거예요? = How much money will you take?
+얼마나 많은 물을 마셨어요? = How much water did you drink?

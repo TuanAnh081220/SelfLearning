@@ -1,0 +1,2 @@
+Example:
+소금을 많이 먹는 것은 건강에 안 좋아요 = It is not healthy to eat a lot of salt

@@ -1,0 +1,2 @@
+문이 바람에 닫혔어요 = The door was closed by the wind
+This is essentially the same sentence as above, but in this case we know how the door was closed. Again, though you could assume that the door (after that point) was in the state of “closed” this sentence does not specifically indicate that.

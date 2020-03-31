@@ -1,0 +1,2 @@
+공부하지 않는 학생들 = students who do not study
+공부하지 않는 학생들은 똑똑하지 않아요 = Students who do not study are not smart

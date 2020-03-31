@@ -1,0 +1,4 @@
+Examples:
+정원이 있는 집에서 사는 게 제 꿈이에요 = It is my dream to live in a house with a garden
+나이가 먹으면 정원을 가꾸는 것은 좋은 운동이에요  = When you get older, doing gardening is good exercise
+그 정원이 아름다워도 내일 그 장소에서 건물을 지을 거예요 = Regardless of if that garden is beautiful, tomorrow we will construct a building on that location

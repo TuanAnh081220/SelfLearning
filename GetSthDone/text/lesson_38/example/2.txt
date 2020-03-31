@@ -1,0 +1,4 @@
+Examples: 제가 산 주식은 좀 비쌌어요 = The stocks I bought were a bit expensive
+주식을 많이 샀기 때문에 돈이 없어요 = I don’t have any money because I bought a lot of stocks
+주식에 투자하는 많은 사람들이 돈을 잃어요 = Many people lose money investing in stocks
+주식투자자는 항상 세계 금융 상황에 관심을 가져야 해요 = Stock market investors always need to be aware/interested in the global financial situation

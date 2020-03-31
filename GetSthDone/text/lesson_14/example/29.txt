@@ -1,0 +1,2 @@
+문이 닫혀요 = The door closes
+While technically correct, you would need some other information to make this sentence more natural (for example, “the door closes every day at 9:00pm”). This is the exact passive equivalent of “저는 문을 닫아요” – except for that in this example, there is no information given as to who/what will close the door. The sentence is not referring to the door being in the state of “closed”, but rather, indicating that door somehow closes.

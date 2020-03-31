@@ -1,0 +1,2 @@
+저는 문을 닫았어요 = I closed the door
+This sentence is an active sentence. It has an active verb, and has an object. This should be no problem.

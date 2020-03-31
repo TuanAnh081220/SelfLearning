@@ -1,0 +1,2 @@
+날개가 위로 움직이면 비행기가 떨어져요
+= = When/if the wings move up, the plane drops

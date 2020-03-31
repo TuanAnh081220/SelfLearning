@@ -1,0 +1,2 @@
+Examples:
+바나나와 사과를 샀어요. 그중에 어떤 것을 먹고 싶어요? = I bought bananas and apples. Between those two, which one do you want to eat?

@@ -1,0 +1,4 @@
+Example:
+만화책을 좋아합니까? = Do you like comic books?
+만화책을 왜 좋아합니까? = Why do you like comic books?
+일본에서 성인들은 미국 청소년보다 만화책을 더 많이 읽어요 = In Japan, adults read more comic books than kids do in America

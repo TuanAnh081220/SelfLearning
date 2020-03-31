@@ -1,0 +1,5 @@
+배우다 = to learn
+The last vowel in the stem is ㅜ. So we add 었다 to the stem.
+오빠는 영어를 배우었다
+But, because the stem ends in a vowel, 었다 can merge with 우:
+오빠는 영어를 배웠다 = (My) older brother learned English

@@ -1,0 +1,10 @@
+
+Common Usages:
+첨부파일 = attached file
+파일을 보내다 = to send a file
+파일을 복사하다 = to copy a file
+파일을 삭제하다 = to delete a file
+Example:
+첨부파일을 확인하세요! = See the attached file
+저는 이메일에 파일을 첨부했어요 = I attached a file to the e-mail
+저는 파일을 2시쯤 보낼 거예요 = I will send the file at approximately 2:00

@@ -1,0 +1,2 @@
+저는 컴퓨터를 켰어요 = I turned the computer on
+컴퓨터가 켜져 있어요 = The computer is (in the state of) on

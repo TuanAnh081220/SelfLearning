@@ -1,0 +1,3 @@
+김치는 좋아요 = Kimchi is good
+저는 김치를 좋아해요 = I like kimchi, which can also be said like this
+저는 김치가 좋아요 = I like kimchi

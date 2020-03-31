@@ -1,0 +1,2 @@
+Examples:
+남은 음식을 포장하고 싶어요 = I want to pack up the food that is left over

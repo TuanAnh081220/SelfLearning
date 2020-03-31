@@ -1,0 +1,3 @@
+컴퓨터가 켜져 있어요 = The computer is (in the state of) on
+TV가 꺼져 있어요 = The TV is (in the state of) off
+문이 잠겨 있어요 = The door is (in the state of) locked

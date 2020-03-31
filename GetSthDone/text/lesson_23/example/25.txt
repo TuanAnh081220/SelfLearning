@@ -1,0 +1,2 @@
+Person 1: 제가 지금 갈 거예요 = I’m going to go now
+Person 2: 그래요! = Sure (like that is fine)

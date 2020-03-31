@@ -1,0 +1,6 @@
+
+Example:
+저는 사과랑 바나나를 샀어요 = I bought apples and bananas
+바나나는 사과보다 더 맛있어요 = Bananas are more delicious than apples
+사과도 여기서 파나요? = Do you sell apples here too?
+빨간 사과는 가장 맛있어요 = Red apples are the most delicious

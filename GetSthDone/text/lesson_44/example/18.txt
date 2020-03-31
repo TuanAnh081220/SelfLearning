@@ -1,0 +1,2 @@
+맞을래? = Do you want to be hit? (Do you want me to hit you?)
+죽을래? = Do you want to die? (Do you want me to kill you?)

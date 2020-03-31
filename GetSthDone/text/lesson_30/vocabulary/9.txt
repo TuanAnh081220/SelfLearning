@@ -1,0 +1,8 @@
+
+Common Usages:
+현위치 = current location (usually on a map to say “YOU ARE HERE”)
+Examples:
+너(의) 위치가 어디야? = Where are you?
+그 학교의 위치가 안 좋아요 = The location of that school isn’t good
+제가 그 가게에 가고 싶은 이유는 싼 가격 때문이 아니라 위치가 가깝기 때문이에요
+= The reason I want to go to that store isn’t because of the cheap prices but because it is close by

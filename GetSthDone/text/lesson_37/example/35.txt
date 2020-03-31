@@ -1,0 +1,2 @@
+점심을 안 먹어서 지금 먹고 있어요 = I didn’t eat lunch, so I’m eating now
+Notice that this sentence wouldn’t make sense if it were “I’m not eating lunch so I’m eating now.”

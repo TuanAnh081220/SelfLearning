@@ -1,0 +1,5 @@
+Examples:
+피자를 먹으면 저는 콜라를 마셔요 = When/If I eat pizza, I drink cola
+진정하지 않으면 콜라를 주지 않을 거예요 = If you don’t calm down, I won’t give you a cola
+저는 영화를 보며 콜라를 마셨어요 = I drank cola while watching a movie
+콜라를 매일 마시면 건강이 나빠져요 = When/if you drink cola every day, your health deteriorates/drops

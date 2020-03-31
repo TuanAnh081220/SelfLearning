@@ -1,0 +1,2 @@
+만화책을 좋아합니까? = Do you like comic books?
+만화책을 왜 좋아합니까? = Why do you like comic books?

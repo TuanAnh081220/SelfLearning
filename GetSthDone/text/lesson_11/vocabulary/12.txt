@@ -1,0 +1,4 @@
+
+Example:
+저는 지난 달에 그 시험을 봤어요 = I took that exam last month
+학생은 지난 달보다 더 많이 공부하고 있어요 = The student is studying more than last month

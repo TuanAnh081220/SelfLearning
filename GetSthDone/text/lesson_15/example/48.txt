@@ -1,0 +1,3 @@
+배가 아파요 = My stomach is sore
+팔이 아파요 = My arm is sore
+저는 어제 너무 아팠어요 = I was very sick yesterday

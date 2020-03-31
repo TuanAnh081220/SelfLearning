@@ -1,0 +1,3 @@
+Examples:
+제가 강아지를 기르고 싶은지 모르겠어요 = I don’t know if I want to raise a puppy
+아이를 기르는 것이 매우 힘든 거예요 = Raising a child is a very difficult thing

@@ -1,0 +1,3 @@
+어제부터 아팠어요 = I have been sick since yesterday
+언제부터 아팠어요? = Since when have you been sick?
+Notice that 어제 and 언제 are not the same word.

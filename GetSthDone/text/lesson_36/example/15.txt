@@ -1,0 +1,2 @@
+TV가 안 보여 = The TV can’t be seen
+소방서가 보여요 = The fire station is seen

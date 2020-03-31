@@ -1,0 +1,4 @@
+긁다 = to scratch
+The last vowel in the stem is ㅡ. However, the stem does not end in ㅡ and instead ends with a consonant. Therefore, 어 is added.
+긁 + 어요 = 긁어요
+저는 머리를 긁었어요 = I scratched my head

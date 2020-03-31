@@ -1,0 +1,3 @@
+무슨 대학교를 다녀요? = What university do you go to?
+어떤 대학교를 다녀요? = Which university do you go to?
+어느 대학교를 다녀요? = Which university do you go to?

@@ -1,0 +1,2 @@
+집은 청소기로 청소되었어요 = the house was cleaned by a vacuum cleaner, whereas:
+집은 청소기에 청소되었어요 = is not correct, although most Korean people would probably understand you.

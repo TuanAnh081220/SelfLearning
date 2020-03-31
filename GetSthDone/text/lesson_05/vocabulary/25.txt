@@ -1,0 +1,9 @@
+
+Common Usages:
+공을 던지다 = to throw a ball
+공을 잡다 = to catch a ball
+야구공 = baseball
+축구공 = soccer ball
+농구공 = basketball
+Example:
+야구선수는 공을 세게 던졌어요 = The baseball player threw the ball hard

@@ -1,0 +1,2 @@
+나는 학생이 아니야 = I am not a student
+그것은 책이 아니야 = That thing is not a book

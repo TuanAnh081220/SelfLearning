@@ -1,0 +1,3 @@
+Examples:
+오늘이 유쾌한 날이라서 슬퍼하지 마세요 = Today is a delightful day, so don’t be sad
+이 사람은 제가 만난 사람 중에 제일 유쾌한 사람이에요 = Of the people I’ve met, this person is the most pleasant

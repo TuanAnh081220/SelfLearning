@@ -1,0 +1,2 @@
+저는 문을 잠갔어요 = I locked the door
+문이 잠겨 있어요 = The door is (in the state of) locked

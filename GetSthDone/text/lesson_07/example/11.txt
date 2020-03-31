@@ -1,0 +1,6 @@
+크다 = to be big
+This stem ends in ㅡ. If we were to add ~아/어, we need to look at the second last syllable, but there is none, so ~어 needs to be added to the stem.
+크 + 어
+~어 merges to the stem and the ㅡ is eliminated:
+크 + 어 = 커
+그 집은 커요 = That house is big

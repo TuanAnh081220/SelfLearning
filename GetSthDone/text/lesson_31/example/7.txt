@@ -1,0 +1,2 @@
+지금 몇 시예요? = What time is it now?
+지금 몇 시인지 모르겠어요 = I don’t know what time it is now

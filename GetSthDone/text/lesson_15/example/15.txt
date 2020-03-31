@@ -1,0 +1,2 @@
+김치가 좋아요 = I like Kimchi, and
+김치가 싫어요 = I don’t like Kimchi

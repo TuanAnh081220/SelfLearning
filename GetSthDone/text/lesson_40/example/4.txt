@@ -1,0 +1,2 @@
+Examples:
+사람들을 학력 수준으로 평가하지 마세요 = Don’t judge people on the basis of education level

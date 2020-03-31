@@ -1,0 +1,2 @@
+A: 이 바지는 마음에 들어? = Do you like these pants?
+B: 별로야 = Meh, not really

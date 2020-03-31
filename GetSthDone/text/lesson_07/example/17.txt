@@ -1,0 +1,3 @@
+Verbs:
+저는 집에 갑니다 = I go home
+저는 밥을 먹습니다 = I eat rice

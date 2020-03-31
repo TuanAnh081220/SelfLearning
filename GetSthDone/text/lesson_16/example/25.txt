@@ -1,0 +1,2 @@
+이 건물은 역사적 건물이다 = This building is a historical building
+이 건물은 역사적인 건물이다 = This building is a historical building

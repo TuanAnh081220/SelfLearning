@@ -1,0 +1,2 @@
+Examples:
+택배가 언제 올지 모르겠어요 = I don’t know when the delivery will come

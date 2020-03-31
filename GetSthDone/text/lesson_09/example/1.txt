@@ -1,0 +1,4 @@
+나는 좋은 학생이야 = I am a good student
+그것은 책이야 = That thing is a book
+나는 선생님이야 = I am a teacher
+이것은 여권이야 = This is a passport

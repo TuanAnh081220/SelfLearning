@@ -1,0 +1,3 @@
+먼저 올라가 = Go up first (you can go up first)
+먼저 올라가요 = Go up first (you can go up first)
+먼저 올라가셔요 = Go up first (you can go up first)

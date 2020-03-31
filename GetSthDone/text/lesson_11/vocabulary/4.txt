@@ -1,0 +1,9 @@
+
+Common Usages:
+택시 운전사 = taxi driver
+버스 운전사 = bus driver
+트럭 운전사 = truck driver
+Notes: This is not the same “사” in 요리사.
+“기사님” is common when talking to bus and taxi drivers
+Example:
+버스운전사는 승객들을 버스에 서울역에서 태웠어요 = The bus driver took on riders at Seoul Station

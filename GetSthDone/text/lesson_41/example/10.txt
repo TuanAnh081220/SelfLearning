@@ -1,0 +1,2 @@
+Examples:
+음성 메시지를 남겨 주세요 = Please leave me a voice message

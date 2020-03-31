@@ -1,0 +1,2 @@
+Example:
+구름은 5분 전에 걷혔어요 = The clouds cleared up 5 minutes ago

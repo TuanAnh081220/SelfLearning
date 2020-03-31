@@ -1,0 +1,3 @@
+공연을 보러 행사에 갔어요 = I went to the event to see the performance
+공연을 보러 행사에 가고 있어요 = I am going to the event to see the performance
+공연을 보러 행사에 갈 거예요 = I will go to the event to see the performance

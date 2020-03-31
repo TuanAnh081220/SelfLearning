@@ -1,0 +1,3 @@
+나는 한국어를 공부하다 = I study Korean (note that this sentence is unconjugated)
+The last syllable in the stem is “하”. Therefore, we add ~였다 to the stem:
+나는 한국어를 공부하였다 = I studied Korean (공부하 + 였다)

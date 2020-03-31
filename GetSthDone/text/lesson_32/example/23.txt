@@ -1,0 +1,3 @@
+친구를 만나러 학교에 갔어요 = I went to school to meet a friend
+친구를 만나러 학교에 가고 있어요 = I am going to school to meet a friend
+친구를 만나러 학교에 갈 거예요 = I will go to school to meet a friend

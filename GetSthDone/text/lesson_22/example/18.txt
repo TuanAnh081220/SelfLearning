@@ -1,0 +1,3 @@
+이것이 뭐야? = What is this?
+이름이 뭐예요? = What is your name?
+점심이 뭐야? = What is (for) lunch?

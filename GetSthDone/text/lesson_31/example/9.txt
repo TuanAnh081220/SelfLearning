@@ -1,0 +1,2 @@
+이 일의 관리자가 누구예요? = Who is the manager of this job?
+이 일의 관리자가 누구인지 알아요? = Do you know who the manager of this job is?

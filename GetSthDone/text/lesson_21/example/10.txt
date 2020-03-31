@@ -1,0 +1,3 @@
+밥을 먹었어? = Did (you) eat?
+집에 갔어? = Did (you) go home?
+소식을 들었어? = Did (you) hear the news?

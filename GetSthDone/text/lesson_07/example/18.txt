@@ -1,0 +1,3 @@
+Adjectives:
+그 여자는 예쁩니다 = That girl is pretty
+이 방은 넓습니다 = This room is big/wide

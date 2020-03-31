@@ -1,0 +1,5 @@
+저는 의사가 아닙니다 = I am not a doctor
+저는 학생이 아닙니다 = I am not a student
+그것은 저의 직업이 아닙니다 = That (thing) is not my job
+그것은 저의 여권이 아닙니다 = That (thing) is not my passport
+그 건물은 극장이 아닙니다 = That building is not a theater

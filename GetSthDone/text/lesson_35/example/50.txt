@@ -1,0 +1,2 @@
+배고플 것 같아! = You are probably hungry!
+배고프겠다! = You are probably hungry!

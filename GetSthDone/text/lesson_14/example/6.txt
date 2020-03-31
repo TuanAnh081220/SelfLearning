@@ -1,0 +1,2 @@
+Example:
+ 컴퓨터는 고장 났어요 = the computer is broken

@@ -1,0 +1,2 @@
+Examples:
+그 상가가 지금 공사 중이에요 = That building is under construction

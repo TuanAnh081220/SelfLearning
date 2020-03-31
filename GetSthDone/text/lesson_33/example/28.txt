@@ -1,0 +1,2 @@
+나는 먹는 중이야 = I am eating
+나는 공부하는 중이야 = I am studying

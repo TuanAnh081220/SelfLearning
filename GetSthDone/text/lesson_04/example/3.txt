@@ -1,0 +1,2 @@
+음식은 비싸다 = The food is expensive
+비싼 음식 = expensive food

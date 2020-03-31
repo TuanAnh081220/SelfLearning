@@ -1,0 +1,2 @@
+문이 닫힐 거예요 = The door will close
+Again, this example is referring to the door somehow closing. It is the exact passive equivalent of “저는 문을 닫을 거예요” – except for that in this example, there is no information given as to who/what will close the door.

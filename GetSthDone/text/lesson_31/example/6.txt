@@ -1,0 +1,2 @@
+비상출구가 어디예요? = Where is the emergency exit?
+비상출구가 어디인지 모르겠어요 = I don’t know where the emergency exit is

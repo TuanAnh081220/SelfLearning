@@ -1,0 +1,2 @@
+Examples:
+뼈마디가 아플 때 이 약을 드세요 = When your joints hurt, take this medicine

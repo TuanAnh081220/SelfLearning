@@ -1,0 +1,9 @@
+
+Common Usages:
+집값 = price of houses
+기름값 = price of oil
+값이 싸다 = cheap
+값이 비싸다 = expensive
+Examples:
+한국에서 집 값은 비싸다 = Housing prices in Korea are expensive
+이 값은 세금을 포함해요 = This price includes tax

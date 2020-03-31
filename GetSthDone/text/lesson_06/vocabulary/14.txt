@@ -1,0 +1,4 @@
+
+Examples:
+우리 교장선생님은 영어를 할 수 있습니다 = Our principal can speak English
+저는 책을 교장선생님께 줬어요 = I gave the principal a book

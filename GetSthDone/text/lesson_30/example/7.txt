@@ -1,0 +1,4 @@
+Examples:
+비상출입구가 어디 있는지 찾았어요 = We found where the emergency exit is
+비상시에 문을 양쪽으로 열 수 있습니다 = In a time of emergency, you can open the door both ways
+지진이 생긴 후에 네팔 전국은 비상 사태였어요 = After the earthquake, the whole country of Nepal was in a state of emergency

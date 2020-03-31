@@ -1,0 +1,2 @@
+계란을 샀어요 = I bought eggs
+뭐 샀어요? = What did you buy?

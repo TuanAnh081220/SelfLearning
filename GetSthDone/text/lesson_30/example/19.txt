@@ -1,0 +1,4 @@
+엄마가 누구랑 먹는지 모르겠어요 = I don’t know who mom is eating with
+엄마가 뭐 먹는지 모르겠어요= I don’t know what mom is eating
+엄마가 어디서 먹는지 모르겠어요 = I don’t know where mom is eating
+엄마가 왜 먹는지 모르겠어요 = I don’t know why mom is eating

@@ -1,0 +1,3 @@
+Examples:
+흡연 구역이 안 보여요 = I can’t see the smoking area
+암에 걸린 이유는 간접흡연 때문인지 오염 때문인 지 알 길이 없어요 = There is no way of knowing if the reason you caught cancer was because of second hand smoke, or because of pollution

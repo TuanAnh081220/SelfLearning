@@ -1,0 +1,5 @@
+
+Example:
+사람 두 명이 왔어요 = two people came
+저는 사람 몇 명을 만났어요 = I met some people
+저는 어제 다섯 명의 친구를 만났어요 = I met 5 friends yesterday

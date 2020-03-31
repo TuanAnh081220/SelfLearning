@@ -1,0 +1,3 @@
+Examples:
+학생들이 들어가도 되지만 부모를 동반해야 돼요
+= Students may enter, but they must be accompanied by a parent

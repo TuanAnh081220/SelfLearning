@@ -1,0 +1,3 @@
+무슨 집에서 살아요? = What house do you live in?
+어떤 집에서 살아요? = Which house do you live in?
+어느 집에서 살아요? = Which house do you live in?

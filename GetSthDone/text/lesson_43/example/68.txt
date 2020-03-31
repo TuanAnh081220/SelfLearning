@@ -1,0 +1,2 @@
+Person 1: 내일 비가 올 것 같아요 = It will probably rain tomorrow
+Person 2: 그러면/그렇다면 공원에 안 갈 거예요 = If so, I’m not going to the park

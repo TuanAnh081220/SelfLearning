@@ -1,0 +1,2 @@
+제가 보고 있는 시험 = The exam I am writing
+제가 보고 있는 시험은 어려워요 = The exam I am writing is difficult

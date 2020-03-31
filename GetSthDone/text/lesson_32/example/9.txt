@@ -1,0 +1,4 @@
+Examples:
+사람을 겉모습으로 평가해선 안 돼요 = You shouldn’t judge somebody on their looks
+저는 올바른 평가를 받지 않았어요 = I didn’t receive the proper evaluation
+학생들을 평가하려고 내일 시험을 볼 거예요 = In order to evaluate the students, they will do an exam tomorrow

@@ -1,0 +1,8 @@
+
+The counter for animals is “마리”
+Common Usages:
+돼지고기 = pork
+돼지갈비 = pork ribs
+돼지김치찌개 = pork and kimchi stew
+Example:
+동물원에 돼지가 많았어요 = There was a lot of pigs at the zoo

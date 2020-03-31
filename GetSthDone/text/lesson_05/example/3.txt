@@ -1,0 +1,5 @@
+Examples:
+나는 친구를 만난다 = I meet a friend
+나는 그것을 이해한다 = I understand that
+나는 한국어를 배운다 = I learn Korean
+나는 집에 간다 = I go home

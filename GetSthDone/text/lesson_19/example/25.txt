@@ -1,0 +1,3 @@
+나는 밥을 더 먹었어 = I ate more
+나는 남동생보다 밥을 더 먹었어 = I ate more than my brother
+나는 어제보다 밥을 더 먹었어 = I ate more than yesterday

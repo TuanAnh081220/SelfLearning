@@ -1,0 +1,2 @@
+점심을 요리하세요 = Make lunch
+이것을 만드세요 = Make this

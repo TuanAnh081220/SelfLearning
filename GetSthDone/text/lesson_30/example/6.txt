@@ -1,0 +1,3 @@
+Examples:
+수술을 받으러 서울에 갔어요 = I went to Seoul to get surgery
+수술을 받을지 확실하지 않아요 = It is not certain if I will get surgery

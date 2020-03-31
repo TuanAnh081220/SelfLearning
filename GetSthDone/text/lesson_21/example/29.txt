@@ -1,0 +1,2 @@
+낮잠을 잤어요? = Did you take a nap?
+낮잠을 언제 잤어요? = When did you take a nap?

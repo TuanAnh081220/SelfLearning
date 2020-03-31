@@ -1,0 +1,3 @@
+Examples:
+복도에서 달리는 것은 위험해요 = It is dangerous to run in the hallway
+이 복도를 걸레로 다 청소하는 데 시간이 많이 필요할 것 같아요 = It will probably take a long time to clean this hallway with just a rag

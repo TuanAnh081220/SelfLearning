@@ -1,0 +1,8 @@
+
+Examples:
+학생들은 교실에 들어갔어요 = The students went into the classroom
+학생은 교실에서 나왔어요 = The student came out of the classroom
+선생님은 학생들과 함께 교실에 갔어요 = The teacher went to the classroom with the students
+교실이 너무 더워서 온도를 내려도 돼요? = Because the classroom is too hot, may I lower the temperature?
+교실에서 선생님들을 컴퓨터로 대체할 수 없어요 = You can’t replace teachers with computers in the classroom
+교실이 너무 어두워서 학생들은 칠판을 볼 수 없어요 = The students can’t see the board because the classroom is too dark

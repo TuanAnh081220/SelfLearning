@@ -1,0 +1,3 @@
+Examples:
+만약 내일 비바람이 오면 경기가 취소될 거예요 = If it storms tomorrow, the match/game will be cancelled
+어제 심하게 비바람이 몰아쳐서 이 지역의 많은 건물이 무너졌어요 = Many buildings collapsed in this area yesterday because of the severe rainstorm

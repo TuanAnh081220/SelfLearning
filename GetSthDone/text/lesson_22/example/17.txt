@@ -1,0 +1,4 @@
+점심을 먹었어? = Did you eat lunch?
+무엇을 먹었어? = What did you eat?
+무엇을 입었어요? = What did you put on/wear?
+무엇을 샀어요? = What did you buy?

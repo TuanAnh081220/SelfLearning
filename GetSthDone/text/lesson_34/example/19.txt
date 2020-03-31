@@ -1,0 +1,6 @@
+You can use 주위to indicate that an action happens “around” something.  For example:
+나는 학교 주위를 걷는 것을 좋아해 = I like walking around the school
+달은 지구 주위를 돌아요 = The moon spins around the earth
+학생들이 넘어진 친구 주위에 서 있었어요 = The students stood around their friend who had fallen
+아이들은 나무 주위에서 놀고 있어요 = The children are playing around the tree
+2호선은 서울 도심 주위를 돌아요 = Line 2 circles around the downtown of Seoul

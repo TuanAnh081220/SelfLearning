@@ -1,0 +1,5 @@
+Examples:
+로그인이 안 돼요 = The log-in isn’t working (I can’t log in)
+로그인을 이미 했지만 그 화면이 안 보여요  = I already logged in, but I don’t see that screen
+핸드폰으로 이메일에 로그인할 수 있어요 = You can log in to your e-mail using a cell-phone
+어제 모르는 사람이 제 페이스북에 로그인해서 장난을 했어요 = Yesterday, some person (I don’t know) logged into my Facebook and played around

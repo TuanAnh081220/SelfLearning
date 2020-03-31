@@ -1,0 +1,2 @@
+집은 청소되었어 = The house was cleaned
+집은 아버지에게 청소되었어 = The house was cleaned by my dad

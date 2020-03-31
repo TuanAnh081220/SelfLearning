@@ -1,0 +1,3 @@
+우리 둘째는 고등학생이에요 = Our second (child) is a high school student
+우리 셋째는 야구를 좋아해요 = Our third (child) likes baseball
+이 아이는 우리 첫째예요 = This (child) is our first (child)

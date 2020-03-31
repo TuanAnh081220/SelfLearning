@@ -1,0 +1,3 @@
+Examples:
+왼손만 주세요 = Give me only your left hand
+대부분 사람들은 왼손으로 글을 못 써요 = Most people can’t write with their left hand

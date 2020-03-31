@@ -1,0 +1,15 @@
+
+Common Usages:
+동물원 = zoo
+육식동물 = carnivore
+초식동물 = herbivore
+동물성 기름 = animal fats
+Examples:
+동물원에 카메라를 가지고 입장해도 돼요?
+= Am I allowed to enter the zoo with a camera?
+제가 동물원에서 유일하게 보고 싶은 동물은 코끼리예요
+= The only animal I want to see at the zoo are the elephants
+우리 어머니가 강아지를 아주 좋아하지만 다른 동물을 싫어해요
+= My mother really likes dogs/puppies, but doesn’t like other animals
+하지만 펭귄이 있는 곳은 동물원 입구에서 멀다고 하니 아빠와 나는 우선 다른 동물들을 먼저 봤다
+= But (because) the place the penguins are was said to be far from the zoo entrance, so Dad and I saw other animals first

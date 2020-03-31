@@ -1,0 +1,4 @@
+Examples:
+교장선생님이 학교에 안 계셔요 = The principal isn’t in the school
+혹시 부모님이 집에 계셔요? = Are your parents at home?
+선생님이 안 계셔서 학생들은 다 자고 있어요 = The teacher isn’t there, so all the students are sleeping

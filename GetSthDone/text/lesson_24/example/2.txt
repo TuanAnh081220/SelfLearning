@@ -1,0 +1,3 @@
+Used to indicate that something was done before a certain time, for example:
+저는 2주 전에 남동생을 만났어요 = I met my brother 2 weeks ago
+저는 그 전에 한국어를 잘 못 했어요 = I couldn’t speak Korean well before that

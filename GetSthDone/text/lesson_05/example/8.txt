@@ -1,0 +1,5 @@
+가다 = to go
+The last vowel in the stem is ㅏ. So we add 았다 to the stem.
+나는 박물관에 가았다
+But, because the stem ends in a vowel, 았다 can merge with 가:
+나는 박물관에 갔다 = I went to the museum

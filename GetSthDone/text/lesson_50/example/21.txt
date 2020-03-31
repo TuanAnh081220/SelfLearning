@@ -1,0 +1,4 @@
+Examples:
+우리 나라를 방어할 준비가 됐습니까? = Are you ready to defend our country?
+그는 가끔씩 자기방어로 거짓말을 해요 = He lies sometimes to defend himself
+그 선수가 공격을 하자 상대방 선수가 그 공격을 방어하기 위해 재빨리 움직였어요 = As soon as that player attacked, his adversary moved swiftly to defend the attack

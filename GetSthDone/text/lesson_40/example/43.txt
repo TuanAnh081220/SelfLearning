@@ -1,0 +1,3 @@
+오른 쪽으로 가세요 = Go right
+왼 쪽으로 가세요 = Go left
+직진하세요 = Go straight

@@ -1,0 +1,3 @@
+아프겠다! = That must hurt!
+배부르겠다! = You must be full!
+힘들겠다! = That must be difficult!

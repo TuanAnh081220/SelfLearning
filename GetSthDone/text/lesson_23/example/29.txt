@@ -1,0 +1,2 @@
+Person 1: 이 물이 맛이 없어 = This water doesn’t taste good
+Person 2: 그래? = Really? (It’s like that?)

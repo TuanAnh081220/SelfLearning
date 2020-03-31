@@ -1,0 +1,14 @@
+하나 = one
+둘 = two
+셋 = three
+넷 = four
+다섯 = five
+여섯 = six
+일곱 = seven
+여덟 = eight
+아홉 = nine
+열 = ten
+스물 = twenty
+서른 = thirty
+마흔 = forty
+쉰 = fifty

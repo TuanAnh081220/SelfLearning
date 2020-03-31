@@ -1,0 +1,3 @@
+Examples:
+의사가 환자랑 상담 중이에요 = The doctor is having a consultation with a patient
+세금 문제를 해결하려고 회계사와 상담했어요 = I consulted with an accountant to resolve the tax problem

@@ -1,0 +1,3 @@
+
+Example:
+고양이는 의자 밑에 있어요 = The cat is below the chair

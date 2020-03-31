@@ -1,0 +1,3 @@
+Examples:
+결과를 다시 검토해야겠다 = We’ll have to examine the results again
+결과를 발표하기 전에 자료를 검토해야 돼요 = Before announcing the results, we need to examine the data

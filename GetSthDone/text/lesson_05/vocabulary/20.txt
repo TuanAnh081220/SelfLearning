@@ -1,0 +1,6 @@
+
+Example:
+저는 가게에서 사과를 샀어요 = I bought apples at the store
+저는 이 가게에서 잠깐 구경하고 싶어요 = I want to look around for a bit in this store
+이 가게는 싼 음식을 팔아요 = this store sells cheap/inexpensive food
+그 가게에 18세 미만은 못 들어가요 = Those under 18 years of age can’t enter that store

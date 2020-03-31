@@ -1,0 +1,3 @@
+Examples:
+잘 주무셨어요? = Did you sleep well?
+아버지가 지금 주무시고 있어요 = Dad is sleeping now

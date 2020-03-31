@@ -1,0 +1,3 @@
+그 그룹이 훈련을 받은 지 다섯 시간 됐어요
+= That group has been receiving training for 5 hours
+= It has been 5 hours since that group started receiving training

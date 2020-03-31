@@ -1,0 +1,3 @@
+Examples:
+주문을 취소하고 있는 사람이 많아요 = There are a lot of people who are cancelling their order
+저는 야외모임을 비 때문에 취소했어요 = I cancelled the outdoor meeting because of the rain

@@ -1,0 +1,5 @@
+친구가 어디에 있어요? = Where is your friend?
+엄마가 어디에 있어요? = Where is mom?
+펜이 어디에 있어요? = Where is the pen?
+아빠가 어디에 있어? = Where is dad?
+그 만화책이 어디에 있어? = Where is that comic?

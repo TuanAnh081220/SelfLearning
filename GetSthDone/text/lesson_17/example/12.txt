@@ -1,0 +1,4 @@
+이 산은 높고 저 산은 낮아요 = This mountain is high, but that mountain is low
+문법은 어렵고 단어는 쉬워요 = Grammar is hard, but words are easy
+이 사람은 부자이고 저 사람은 가난해요 = That person is rich, but that person is poor
+이분은 저의 아버지이고 이분은 저의 어머니입니다 = This person is my father, and this person is my mother

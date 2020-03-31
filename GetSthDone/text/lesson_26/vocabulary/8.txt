@@ -1,0 +1,4 @@
+
+Examples:
+군대에서는 사람들이 무기훈련을 받아요 = People in the army receive weapon training
+학교에서 무기를 가지고 있는 것은 불법입니다 = It is illegal to carry a weapon in school

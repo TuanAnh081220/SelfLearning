@@ -1,0 +1,3 @@
+Examples:
+이 학교가 과학 고등학교라서 인문학을 공부하지 않아도 돼요
+= You don’t need to study the humanities at this school because it is a science high school

@@ -1,0 +1,2 @@
+A: 밥은 맛있어? = Is the food delicious?
+B: 별로야 = Meh, not really

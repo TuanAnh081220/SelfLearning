@@ -1,0 +1,9 @@
+안녕히 가세요 = Goodbye (said to somebody going)
+안녕히 계세요 = Goodbye (said to somebody staying)
+만나서 반갑습니다 = Nice to meet you
+실례합니다 = Excuse me
+죄송합니다/미안합니다 = Sorry
+이름이 뭐예요? = What is your name?
+저의 이름은 ______이에요 = My name is
+어디에서 왔어요? = Where are you from?
+저는 _______에서 왔어요 = I am from

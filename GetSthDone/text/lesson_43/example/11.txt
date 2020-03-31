@@ -1,0 +1,4 @@
+Examples:
+집에 도착하면 빨래를 할 거예요 = When I arrive at home, I will do laundry
+빨래를 다 했으니 지금 자도 돼요 = (Because) I have finished the laundry, so I can go to bed now
+저는 빨래를 해야 하기도 하고 집을 청소해야 하기도 해요 = I need to do the laundry and also clean the house too

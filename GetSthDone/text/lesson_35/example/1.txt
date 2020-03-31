@@ -1,0 +1,3 @@
+Examples:
+수영장 물은 별로 깨끗하지 않아요 = Water in swimming pools isn’t that clean
+수영장물이 다 넘쳤어요? = Did all the water overflow out of the pool?

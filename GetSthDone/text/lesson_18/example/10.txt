@@ -1,0 +1,2 @@
+Person 1: 집에 빨리 와! = come home quickly
+Person 2: 알았어 = Okay

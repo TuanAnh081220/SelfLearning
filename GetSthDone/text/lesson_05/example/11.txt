@@ -1,0 +1,5 @@
+던지다 = to throw
+The last vowel in the stem is ㅣ. So we add 었다 to the stem.
+나는 공을 던지었다
+But, because the stem ends in a vowel, 었다 can merge with 지:
+나는 공을 던졌다 = I threw the ball

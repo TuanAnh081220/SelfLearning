@@ -1,0 +1,5 @@
+
+Notes: It would be more natural to connect sentences with a grammatical principle (like ~지만 or ~는데) than to separate them using 하지만.
+Example:
+거기에 가고 싶어요. 하지만 돈이 없어요 = I want to go there. But I have no money
+저는 먹고 싶어요. 하지만 배고프지 않아요 = I want to eat. But, I am not hungry

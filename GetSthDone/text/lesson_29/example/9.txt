@@ -1,0 +1,3 @@
+밥을 먹기 싫어 = I don’t want to eat
+가기 싫어 = I don’t want to go
+쌀을 씻기 싫어요 = I don’t want to wash the rice

@@ -1,0 +1,2 @@
+Used to indicate that something was done after a certain time, for example:
+수업은 2분 후에 끝날 거예요 = Class will finish 2 minutes from now

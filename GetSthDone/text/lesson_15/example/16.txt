@@ -1,0 +1,2 @@
+학교가 좋아요 = I like school
+학교가 싫어요 = I don’t like school

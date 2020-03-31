@@ -1,0 +1,2 @@
+나는 3일에 수업을 들었어 = I went to class on the 3rd (day of the month)
+나는 3일 동안  수업을 들었어 = I went to class for three days

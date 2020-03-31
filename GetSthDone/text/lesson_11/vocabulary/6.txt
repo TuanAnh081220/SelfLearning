@@ -1,0 +1,7 @@
+
+Notes: When counting months, you can either use 달 or 개월. When using 달, you must use the pure Korean numbers, and when using 개월, you must use the Sino-Korean numbers. There is no
+difference in meaning, and both are used frequently
+Example:
+저는 2개월 동안 한국어 수업을 들었어요 = I took a Korean class for 2 months
+저는 6개월 동안 여행했어요 = I traveled for 6 months
+우리는 사귄 지 3개월 되었어요 = We have been going out for 3 months

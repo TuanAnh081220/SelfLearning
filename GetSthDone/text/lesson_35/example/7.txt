@@ -1,0 +1,2 @@
+Examples:
+그 학생이 학교에서 왕따인 것 같아 = It seems like that student is an outcast at school

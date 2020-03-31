@@ -1,0 +1,3 @@
+우리가 빨리 가야지! = We have to go fast!
+우리는 빨리 가야죠! = We have to go fast!
+Notice here that there are no spaces between ~아/어야 and 지/죠.
